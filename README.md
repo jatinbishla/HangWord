@@ -1,2 +1,3 @@
 # HangWord
  Hangman game in a new way
+My project’s name is ‘Hangword’, actually it’s a game. In this game the system will give you a word with missing letters and you have to guess the letters. Here you only have 10 chances. If you entered a letter which is not in the word then a figure will be there which will become a man hung and by guessing correct letters in the word you can save the man and side by side win the game also.
